@@ -3,7 +3,7 @@ import java.util.*;
 public class Pattern24 {
 
 
-        public static void main(String ...a){
+        public static void main(String[]args){
             int i,j;
             System.out.println("Hollow Rectangle Program");
             Scanner sc= new Scanner(System.in);
